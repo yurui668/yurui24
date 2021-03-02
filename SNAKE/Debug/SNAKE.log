@@ -1,0 +1,21 @@
+﻿  CGame.cpp
+d:\桌面\SNAKE1\SNAKE\CSnake.h(9,21): warning C4091: “typedef ”: 没有声明变量时忽略“Directions”的左侧
+d:\桌面\SNAKE1\SNAKE\CGame.cpp(159,17): warning C4065: switch 语句包含“default”但是未包含“case”标签
+d:\桌面\SNAKE1\SNAKE\CGame.cpp(127,22): warning C4102: “case1”: 未引用的标签
+d:\桌面\SNAKE1\SNAKE\CGame.cpp(132,22): warning C4102: “case2”: 未引用的标签
+d:\桌面\SNAKE1\SNAKE\CGame.cpp(137,22): warning C4102: “case3”: 未引用的标签
+d:\桌面\SNAKE1\SNAKE\CGame.cpp(142,22): warning C4102: “case4”: 未引用的标签
+d:\桌面\SNAKE1\SNAKE\CGame.cpp(146,22): warning C4102: “case5”: 未引用的标签
+d:\桌面\SNAKE1\SNAKE\CGame.cpp(149,22): warning C4102: “case6”: 未引用的标签
+  CSnake.cpp
+d:\桌面\SNAKE1\SNAKE\CSnake.h(9,21): warning C4091: “typedef ”: 没有声明变量时忽略“Directions”的左侧
+d:\桌面\SNAKE1\SNAKE\CSnake.cpp(153,27): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  Cunit.cpp
+  Food.cpp
+  MagicFood.cpp
+  Map.cpp
+  SNAKE.cpp
+d:\桌面\SNAKE1\SNAKE\CSnake.h(9,21): warning C4091: “typedef ”: 没有声明变量时忽略“Directions”的左侧
+  正在生成代码...
+d:\桌面\SNAKE1\SNAKE\CGame.cpp(259): warning C4715: “CGame::endgame”: 不是所有的控件路径都返回值
+  SNAKE.vcxproj -> d:\桌面\SNAKE1\SNAKE\Debug\SNAKE.exe

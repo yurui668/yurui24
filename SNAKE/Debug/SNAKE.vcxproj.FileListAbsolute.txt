@@ -1,0 +1,2 @@
+d:\桌面\SNAKE1\SNAKE\Debug\SNAKE.exe
+d:\桌面\SNAKE1\SNAKE\Debug\SNAKE.pdb
